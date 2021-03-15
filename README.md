@@ -1,11 +1,11 @@
 [![ADA](https://img.shields.io/badge/Vapor-4.0-blue)]()
 
 ## Overview
-This project is created for me to practice using Vapor which is a Server Side Swift Framework to act as a backend service of my own apps. In this project I use PostgreSQL as my chosen database from the Vapor Fluent ORM.
+This project is created for me to practice using Vapor which is a Server Side Swift Framework to act as a backend service of my app. I also use PostgreSQL as my database from the Vapor Fluent ORM.
 
 
 ##  First Setting
-* Create the database
+* Create database on Postgre
 <pre>CREATE DATABASE moviesdb;</pre>
 
 * Edit Project Scheme and change custom working directory to your directory settings
