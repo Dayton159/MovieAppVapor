@@ -6,7 +6,7 @@ This project is created for me to practice using Vapor which is a Server Side Sw
 
 ##  First Setting
 * Create the database
-<pre>CREATE DATABASE moviesdb</pre>
+<pre>CREATE DATABASE moviesdb;</pre>
 
 * Edit Project Scheme and change custom working directory to your directory settings
 * Check the database setting(username,password,etc) on server's configure file
