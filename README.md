@@ -19,6 +19,6 @@ After the setting is done, proceed with migration on your project directory
 [Vapor](https://vapor.codes)
 
 
-#Demo
+# Demo
 
 <img src="MovieAppVapor/appPreview/appPreview.gif" width=250 height=500>
