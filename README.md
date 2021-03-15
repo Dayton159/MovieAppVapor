@@ -18,6 +18,10 @@ After the setting is done, proceed with migration on your project directory
 ## Vapor
 [Vapor](https://vapor.codes)
 
+## Error Handling
+If you turns on and off the server forcibly, the server may crash. To fix this:
+<pre>killAll Run</pre>
+
 
 # Demo
 
