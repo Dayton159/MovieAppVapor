@@ -4,7 +4,7 @@
 A simple movie app where you can add a list of review to a specific movie. I create this project to practice using Vapor which is a Server Side Swift Framework to act as a backend service of my app. I also use PostgreSQL as my database from the Vapor Fluent ORM.
 
 ## Technology & Style Used
-* Vapor 4.0 (Server-side Swift Framework)
+* [Vapor 4.0](https://vapor.codes) (Server-side Swift Framework)
 * SwiftUI
 * Networking
 * PostgreSQL
@@ -19,9 +19,6 @@ A simple movie app where you can add a list of review to a specific movie. I cre
 ## Migrations
 After the setting is done, proceed with migration on your project directory
 <pre>vapor run migrate</pre>
-
-## Vapor
-[Vapor](https://vapor.codes)
 
 ## Error Handling
 If you turns on and off the server forcibly, the server may crash. To fix this:
