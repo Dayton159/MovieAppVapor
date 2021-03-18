@@ -1,8 +1,13 @@
 [![ADA](https://img.shields.io/badge/Vapor-4.0-blue)]()
 
 ## Overview
-This project is created for me to practice using Vapor which is a Server Side Swift Framework to act as a backend service of my app. I also use PostgreSQL as my database from the Vapor Fluent ORM.
+A simple movie app where you can add a list of review to a specific movie. I create this project to practice using Vapor which is a Server Side Swift Framework to act as a backend service of my app. I also use PostgreSQL as my database from the Vapor Fluent ORM.
 
+## Technology & Style Used
+* Vapor 4.0 (Server-side Swift Framework)
+* SwiftUI
+* Networking
+* PostgreSQL
 
 ##  First Setting
 * Create database on Postgre
